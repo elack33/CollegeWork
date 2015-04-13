@@ -1,0 +1,581 @@
+
+Lakesha Loman & Dar Wright, CIS 2275 Program 5
+Ticket Log File
+Mon Mar 19 18:41:42 2012
+
+
+PO Name:  CLAYTON WEITZMAN
+Badge Number: 289499
+Fees:        $190
+Jailed?     : No
+
+****Running total****
+
+Violations:      1
+Drivers Jailed: 0
+Total Fees:   $190
+
+
+PO Name:  MARY TSHUDY
+Badge Number: 843691
+Fees:        $0
+Jailed?     : No
+
+****Running total****
+
+Violations:      1
+Drivers Jailed: 0
+Total Fees:   $190
+
+
+PO Name:  MICHAEL SCALES
+Badge Number: 234778
+Fees:        $190
+Jailed?     : No
+
+****Running total****
+
+Violations:      2
+Drivers Jailed: 0
+Total Fees:   $380
+
+
+PO Name:  GARY DOUGLAS
+Badge Number: 477589
+Fees:        $1000
+Jailed?     : Yes
+
+****Running total****
+
+Violations:      2
+Drivers Jailed: 1
+Total Fees:   $1380
+
+
+PO Name:  MARILYN TRAINO
+Badge Number: 620878
+Fees:        $130
+Jailed?     : No
+
+****Running total****
+
+Violations:      3
+Drivers Jailed: 1
+Total Fees:   $1510
+
+
+PO Name:  ISABEL KILDAY
+Badge Number: 336617
+Fees:        $220
+Jailed?     : No
+
+****Running total****
+
+Violations:      4
+Drivers Jailed: 1
+Total Fees:   $1730
+
+
+PO Name:  KRISTA FLORES
+Badge Number: 285667
+Fees:        $210
+Jailed?     : No
+
+****Running total****
+
+Violations:      5
+Drivers Jailed: 1
+Total Fees:   $1940
+
+
+PO Name:  DENNIS HANSEN
+Badge Number: 087757
+Fees:        $1000
+Jailed?     : Yes
+
+****Running total****
+
+Violations:      5
+Drivers Jailed: 2
+Total Fees:   $2940
+
+
+PO Name:  RUTH SANDERSON
+Badge Number: 301821
+Fees:        $1000
+Jailed?     : Yes
+
+****Running total****
+
+Violations:      5
+Drivers Jailed: 3
+Total Fees:   $3940
+
+
+PO Name:  KAY AYERS
+Badge Number: 092648
+Fees:        $110
+Jailed?     : No
+
+****Running total****
+
+Violations:      6
+Drivers Jailed: 3
+Total Fees:   $4050
+
+
+PO Name:  WILLIAM TAYLOR
+Badge Number: 873301
+Fees:        $150
+Jailed?     : No
+
+****Running total****
+
+Violations:      7
+Drivers Jailed: 3
+Total Fees:   $4200
+
+
+PO Name:  SARAH SCHMIDT
+Badge Number: 356609
+Fees:        $150
+Jailed?     : No
+
+****Running total****
+
+Violations:      8
+Drivers Jailed: 3
+Total Fees:   $4350
+
+
+PO Name:  FRANCISCO PONTIOUS
+Badge Number: 789393
+Fees:        $130
+Jailed?     : No
+
+****Running total****
+
+Violations:      9
+Drivers Jailed: 3
+Total Fees:   $4480
+
+
+PO Name:  KIMBERLY FAULKNER
+Badge Number: 946355
+Fees:        $1000
+Jailed?     : Yes
+
+****Running total****
+
+Violations:      9
+Drivers Jailed: 4
+Total Fees:   $5480
+
+
+PO Name:  SUZANNE CARPENTER
+Badge Number: 109581
+Fees:        $190
+Jailed?     : No
+
+****Running total****
+
+Violations:      10
+Drivers Jailed: 4
+Total Fees:   $5670
+
+
+PO Name:  VERNICE MILLER
+Badge Number: 667993
+Fees:        $210
+Jailed?     : No
+
+****Running total****
+
+Violations:      11
+Drivers Jailed: 4
+Total Fees:   $5880
+
+
+PO Name:  EVELYN SMITH
+Badge Number: 630790
+Fees:        $130
+Jailed?     : No
+
+****Running total****
+
+Violations:      12
+Drivers Jailed: 4
+Total Fees:   $6010
+
+
+PO Name:  MICHAEL WHITTINGTON
+Badge Number: 287505
+Fees:        $1000
+Jailed?     : Yes
+
+****Running total****
+
+Violations:      12
+Drivers Jailed: 5
+Total Fees:   $7010
+
+
+PO Name:  LISA SANCHEZ
+Badge Number: 921637
+Fees:        $220
+Jailed?     : No
+
+****Running total****
+
+Violations:      13
+Drivers Jailed: 5
+Total Fees:   $7230
+
+
+PO Name:  LACEY CHAVEZ
+Badge Number: 650031
+Fees:        $150
+Jailed?     : No
+
+****Running total****
+
+Violations:      14
+Drivers Jailed: 5
+Total Fees:   $7380
+
+
+PO Name:  JOSHUA JEFFERSON
+Badge Number: 979411
+Fees:        $1000
+Jailed?     : Yes
+
+****Running total****
+
+Violations:      14
+Drivers Jailed: 6
+Total Fees:   $8380
+
+
+PO Name:  DENNIS SCHRAM
+Badge Number: 034273
+Fees:        $1000
+Jailed?     : Yes
+
+****Running total****
+
+Violations:      14
+Drivers Jailed: 7
+Total Fees:   $9380
+
+
+PO Name:  ERNEST PRENDERGAST
+Badge Number: 992725
+Fees:        $190
+Jailed?     : No
+
+****Running total****
+
+Violations:      15
+Drivers Jailed: 7
+Total Fees:   $9570
+
+
+PO Name:  MARY ABREU
+Badge Number: 495041
+Fees:        $210
+Jailed?     : No
+
+****Running total****
+
+Violations:      16
+Drivers Jailed: 7
+Total Fees:   $9780
+
+
+PO Name:  DAVID AKBAR
+Badge Number: 957643
+Fees:        $110
+Jailed?     : No
+
+****Running total****
+
+Violations:      17
+Drivers Jailed: 7
+Total Fees:   $9890
+
+
+PO Name:  ANNIE BUCO
+Badge Number: 655450
+Fees:        $110
+Jailed?     : No
+
+****Running total****
+
+Violations:      18
+Drivers Jailed: 7
+Total Fees:   $10000
+
+
+PO Name:  JOSEPH BEASLEY
+Badge Number: 632830
+Fees:        $1000
+Jailed?     : Yes
+
+****Running total****
+
+Violations:      18
+Drivers Jailed: 8
+Total Fees:   $11000
+
+
+PO Name:  YVETTE LEVASSEUR
+Badge Number: 503164
+Fees:        $150
+Jailed?     : No
+
+****Running total****
+
+Violations:      19
+Drivers Jailed: 8
+Total Fees:   $11150
+
+
+PO Name:  JOANN CAVALLO
+Badge Number: 270949
+Fees:        $0
+Jailed?     : No
+
+****Running total****
+
+Violations:      19
+Drivers Jailed: 8
+Total Fees:   $11150
+
+
+PO Name:  RITA MCENTEE
+Badge Number: 971478
+Fees:        $220
+Jailed?     : No
+
+****Running total****
+
+Violations:      20
+Drivers Jailed: 8
+Total Fees:   $11370
+
+
+PO Name:  MITZI MUNRO
+Badge Number: 648436
+Fees:        $1000
+Jailed?     : Yes
+
+****Running total****
+
+Violations:      20
+Drivers Jailed: 9
+Total Fees:   $12370
+
+
+PO Name:  JAMES MONETTE
+Badge Number: 853694
+Fees:        $220
+Jailed?     : No
+
+****Running total****
+
+Violations:      21
+Drivers Jailed: 9
+Total Fees:   $12590
+
+
+PO Name:  AUGUSTA HAVEN
+Badge Number: 625573
+Fees:        $160
+Jailed?     : No
+
+****Running total****
+
+Violations:      22
+Drivers Jailed: 9
+Total Fees:   $12750
+
+
+PO Name:  NANCY COLLETTE
+Badge Number: 208697
+Fees:        $150
+Jailed?     : No
+
+****Running total****
+
+Violations:      23
+Drivers Jailed: 9
+Total Fees:   $12900
+
+
+PO Name:  CORA BOURGET
+Badge Number: 140355
+Fees:        $210
+Jailed?     : No
+
+****Running total****
+
+Violations:      24
+Drivers Jailed: 9
+Total Fees:   $13110
+
+
+PO Name:  MARSHALL SORENSEN
+Badge Number: 354246
+Fees:        $210
+Jailed?     : No
+
+****Running total****
+
+Violations:      25
+Drivers Jailed: 9
+Total Fees:   $13320
+
+
+PO Name:  ARTURO AKIN
+Badge Number: 577257
+Fees:        $210
+Jailed?     : No
+
+****Running total****
+
+Violations:      26
+Drivers Jailed: 9
+Total Fees:   $13530
+
+
+PO Name:  CURTIS CLARK
+Badge Number: 014652
+Fees:        $210
+Jailed?     : No
+
+****Running total****
+
+Violations:      27
+Drivers Jailed: 9
+Total Fees:   $13740
+
+
+PO Name:  JERRY WINKLER
+Badge Number: 011691
+Fees:        $220
+Jailed?     : No
+
+****Running total****
+
+Violations:      28
+Drivers Jailed: 9
+Total Fees:   $13960
+
+
+PO Name:  BRANDON LAVOIE
+Badge Number: 881526
+Fees:        $220
+Jailed?     : No
+
+****Running total****
+
+Violations:      29
+Drivers Jailed: 9
+Total Fees:   $14180
+
+
+PO Name:  DIXIE CHESSMAN
+Badge Number: 203638
+Fees:        $150
+Jailed?     : No
+
+****Running total****
+
+Violations:      30
+Drivers Jailed: 9
+Total Fees:   $14330
+
+
+PO Name:  DORTHA COLLELO
+Badge Number: 848184
+Fees:        $1000
+Jailed?     : Yes
+
+****Running total****
+
+Violations:      30
+Drivers Jailed: 10
+Total Fees:   $15330
+
+
+PO Name:  LESLIE WEEKS
+Badge Number: 893606
+Fees:        $150
+Jailed?     : No
+
+****Running total****
+
+Violations:      31
+Drivers Jailed: 10
+Total Fees:   $15480
+
+
+PO Name:  JASON TEGELER
+Badge Number: 548307
+Fees:        $130
+Jailed?     : No
+
+****Running total****
+
+Violations:      32
+Drivers Jailed: 10
+Total Fees:   $15610
+
+
+PO Name:  JOEL FREEMAN
+Badge Number: 650886
+Fees:        $1000
+Jailed?     : Yes
+
+****Running total****
+
+Violations:      32
+Drivers Jailed: 11
+Total Fees:   $16610
+
+
+PO Name:  THADDEUS BROWN
+Badge Number: 472405
+Fees:        $0
+Jailed?     : Yes
+
+****Running total****
+
+Violations:      32
+Drivers Jailed: 11
+Total Fees:   $16610
+
+
+PO Name:  JOSEPH BYASSEE
+Badge Number: 120467
+Fees:        $210
+Jailed?     : No
+
+****Running total****
+
+Violations:      33
+Drivers Jailed: 11
+Total Fees:   $16820
+
+
+PO Name:  JANET LEWIS
+Badge Number: 891171
+Fees:        $220
+Jailed?     : No
+
+****Running total****
+
+Violations:      34
+Drivers Jailed: 11
+Total Fees:   $17040
+

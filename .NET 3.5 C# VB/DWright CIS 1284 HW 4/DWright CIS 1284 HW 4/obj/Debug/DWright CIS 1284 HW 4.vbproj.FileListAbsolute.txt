@@ -1,0 +1,23 @@
+E:\School\CIS 1284 Net VB\Projects\DWright CIS 1284 HW 4\DWright CIS 1284 HW 4\DWright CIS 1284 HW 4\bin\Debug\DWright CIS 1284 HW 4.exe
+E:\School\CIS 1284 Net VB\Projects\DWright CIS 1284 HW 4\DWright CIS 1284 HW 4\DWright CIS 1284 HW 4\bin\Debug\DWright CIS 1284 HW 4.pdb
+E:\School\CIS 1284 Net VB\Projects\DWright CIS 1284 HW 4\DWright CIS 1284 HW 4\DWright CIS 1284 HW 4\bin\Debug\DWright CIS 1284 HW 4.xml
+E:\School\CIS 1284 Net VB\Projects\DWright CIS 1284 HW 4\DWright CIS 1284 HW 4\DWright CIS 1284 HW 4\obj\Debug\ResolveAssemblyReference.cache
+E:\School\CIS 1284 Net VB\Projects\DWright CIS 1284 HW 4\DWright CIS 1284 HW 4\DWright CIS 1284 HW 4\obj\Debug\DWright_CIS_1284_HW_4.Form1.resources
+E:\School\CIS 1284 Net VB\Projects\DWright CIS 1284 HW 4\DWright CIS 1284 HW 4\DWright CIS 1284 HW 4\obj\Debug\DWright_CIS_1284_HW_4.Resources.resources
+E:\School\CIS 1284 Net VB\Projects\DWright CIS 1284 HW 4\DWright CIS 1284 HW 4\DWright CIS 1284 HW 4\obj\Debug\DWright CIS 1284 HW 4.vbproj.GenerateResource.Cache
+E:\School\CIS 1284 Net VB\Projects\DWright CIS 1284 HW 4\DWright CIS 1284 HW 4\DWright CIS 1284 HW 4\obj\Debug\DWright CIS 1284 HW 4.exe
+E:\School\CIS 1284 Net VB\Projects\DWright CIS 1284 HW 4\DWright CIS 1284 HW 4\DWright CIS 1284 HW 4\obj\Debug\DWright CIS 1284 HW 4.xml
+E:\School\CIS 1284 Net VB\Projects\DWright CIS 1284 HW 4\DWright CIS 1284 HW 4\DWright CIS 1284 HW 4\obj\Debug\DWright CIS 1284 HW 4.pdb
+H:\School\CIS 1284 Net VB\Projects\DWright CIS 1284 HW 4\DWright CIS 1284 HW 4\DWright CIS 1284 HW 4\obj\Debug\DWright CIS 1284 HW 4.exe
+H:\School\CIS 1284 Net VB\Projects\DWright CIS 1284 HW 4\DWright CIS 1284 HW 4\DWright CIS 1284 HW 4\obj\Debug\DWright CIS 1284 HW 4.xml
+H:\School\CIS 1284 Net VB\Projects\DWright CIS 1284 HW 4\DWright CIS 1284 HW 4\DWright CIS 1284 HW 4\obj\Debug\DWright CIS 1284 HW 4.pdb
+C:\Users\Dar\Documents\School\CIS 1284 Net VB\Projects\DWright CIS 1284 HW 4\DWright CIS 1284 HW 4\DWright CIS 1284 HW 4\obj\Debug\DWright CIS 1284 HW 4.exe
+C:\Users\Dar\Documents\School\CIS 1284 Net VB\Projects\DWright CIS 1284 HW 4\DWright CIS 1284 HW 4\DWright CIS 1284 HW 4\obj\Debug\DWright CIS 1284 HW 4.xml
+C:\Users\Dar\Documents\School\CIS 1284 Net VB\Projects\DWright CIS 1284 HW 4\DWright CIS 1284 HW 4\DWright CIS 1284 HW 4\obj\Debug\DWright CIS 1284 HW 4.pdb
+C:\Users\Dar\Documents\School\CIS 1284 Net VB\Projects\DWright CIS 1284 HW 4\DWright CIS 1284 HW 4\DWright CIS 1284 HW 4\bin\Debug\DWright CIS 1284 HW 4.exe
+C:\Users\Dar\Documents\School\CIS 1284 Net VB\Projects\DWright CIS 1284 HW 4\DWright CIS 1284 HW 4\DWright CIS 1284 HW 4\bin\Debug\DWright CIS 1284 HW 4.pdb
+C:\Users\Dar\Documents\School\CIS 1284 Net VB\Projects\DWright CIS 1284 HW 4\DWright CIS 1284 HW 4\DWright CIS 1284 HW 4\bin\Debug\DWright CIS 1284 HW 4.xml
+C:\Users\Dar\Documents\School\CIS 1284 Net VB\Projects\DWright CIS 1284 HW 4\DWright CIS 1284 HW 4\DWright CIS 1284 HW 4\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dar\Documents\School\CIS 1284 Net VB\Projects\DWright CIS 1284 HW 4\DWright CIS 1284 HW 4\DWright CIS 1284 HW 4\obj\Debug\DWright_CIS_1284_HW_4.Form1.resources
+C:\Users\Dar\Documents\School\CIS 1284 Net VB\Projects\DWright CIS 1284 HW 4\DWright CIS 1284 HW 4\DWright CIS 1284 HW 4\obj\Debug\DWright_CIS_1284_HW_4.Resources.resources
+C:\Users\Dar\Documents\School\CIS 1284 Net VB\Projects\DWright CIS 1284 HW 4\DWright CIS 1284 HW 4\DWright CIS 1284 HW 4\obj\Debug\DWright CIS 1284 HW 4.vbproj.GenerateResource.Cache

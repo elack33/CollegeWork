@@ -1,0 +1,43 @@
+
+Lakesha Loman & Dar Wright, CIS 2275 Program 5
+Traffic Generator Log File
+Mon Apr 13 06:10:28 2015
+
+Today's Date: April 13, 2015
+
+
+1. Vehicle speed: 93 mph  License plate No. NM ONN204
+ Driver: LUIGI MARIO Driver License No. NM 451284492
+
+2. Vehicle speed: 80 mph  License plate No. NM QTK027
+ Driver: LUIGI MARIO Driver License No. NM 816252941
+
+3. Vehicle speed: 72 mph  License plate No. NM RBW141
+ Driver: LUIGI MARIO Driver License No. NM 068262448
+
+4. Vehicle speed: 21 mph  License plate No. NM MSQ838
+ Driver: LUIGI MARIO Driver License No. NM 754245249
+
+5. Vehicle speed: 98 mph  License plate No. NM LSH549
+ Driver: LUIGI MARIO Driver License No. NM 055274667
+
+6. Vehicle speed: 100 mph  License plate No. NM WFK839
+ Driver: LUIGI MARIO Driver License No. Invalid License
+
+7. Vehicle speed: 45 mph  License plate No. NM HPW902
+ Driver: LUIGI MARIO Driver License No. NM 498571901
+
+8. Vehicle speed: 36 mph  License plate No. NM TWR203
+ Driver: LUIGI MARIO Driver License No. NM 387329911
+
+9. Vehicle speed: 68 mph  License plate No. NM FSL374
+ Driver: LUIGI MARIO Driver License No. NM 521414755
+
+10. Vehicle speed: 72 mph  License plate No. NM HTG466
+ Driver: LUIGI MARIO Driver License No. NM 911382446
+
+11. Vehicle speed: 70 mph  License plate No. NM MCT907
+ Driver: LUIGI MARIO Driver License No. NM 864776480
+
+12. Vehicle speed: 35 mph  License plate No. OR VWX129
+ Driver: LUIGI MARIO Driver License No. OR 631111155

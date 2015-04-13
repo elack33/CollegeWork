@@ -1,0 +1,36 @@
+C:\CDrive\CIS 1284 NET 2008\Class Programs\Student Data\Student Data\bin\Debug\Student Data.exe
+C:\CDrive\CIS 1284 NET 2008\Class Programs\Student Data\Student Data\bin\Debug\Student Data.pdb
+C:\CDrive\CIS 1284 NET 2008\Class Programs\Student Data\Student Data\bin\Debug\Student Data.xml
+C:\CDrive\CIS 1284 NET 2008\Class Programs\Student Data\Student Data\obj\Debug\ResolveAssemblyReference.cache
+C:\CDrive\CIS 1284 NET 2008\Class Programs\Student Data\Student Data\obj\Debug\Student_Data.frmMain.resources
+C:\CDrive\CIS 1284 NET 2008\Class Programs\Student Data\Student Data\obj\Debug\Student_Data.Resources.resources
+C:\CDrive\CIS 1284 NET 2008\Class Programs\Student Data\Student Data\obj\Debug\Student Data.vbproj.GenerateResource.Cache
+C:\CDrive\CIS 1284 NET 2008\Class Programs\Student Data\Student Data\obj\Debug\Student Data.exe
+C:\CDrive\CIS 1284 NET 2008\Class Programs\Student Data\Student Data\obj\Debug\Student Data.xml
+C:\CDrive\CIS 1284 NET 2008\Class Programs\Student Data\Student Data\obj\Debug\Student Data.pdb
+C:\CDrive\CIS 1284 NET 2008\Class Programs\Student Data Calculations\Student Data\obj\Debug\Student Data.exe
+C:\CDrive\CIS 1284 NET 2008\Class Programs\Student Data Calculations\Student Data\obj\Debug\Student Data.xml
+C:\CDrive\CIS 1284 NET 2008\Class Programs\Student Data Calculations\Student Data\obj\Debug\Student Data.pdb
+C:\CDrive\CIS 1284 NET 2008\Class Programs\Student Data Calculations\Student Data\bin\Debug\Student Data.exe
+C:\CDrive\CIS 1284 NET 2008\Class Programs\Student Data Calculations\Student Data\bin\Debug\Student Data.pdb
+C:\CDrive\CIS 1284 NET 2008\Class Programs\Student Data Calculations\Student Data\bin\Debug\Student Data.xml
+C:\CDrive\CIS 1284 NET 2008\Class Programs\Student Data Calculations\Student Data\obj\Debug\ResolveAssemblyReference.cache
+C:\CDrive\CIS 1284 NET 2008\Class Programs\Student Data Calculations\Student Data\obj\Debug\Student_Data.frmMain.resources
+C:\CDrive\CIS 1284 NET 2008\Class Programs\Student Data Calculations\Student Data\obj\Debug\Student_Data.Resources.resources
+C:\CDrive\CIS 1284 NET 2008\Class Programs\Student Data Calculations\Student Data\obj\Debug\Student Data.vbproj.GenerateResource.Cache
+C:\CDrive\CIS 1284 NET 2008\Class Programs\CIS 1284 GA 10\Student Data\obj\Debug\Student Data.exe
+C:\CDrive\CIS 1284 NET 2008\Class Programs\CIS 1284 GA 10\Student Data\obj\Debug\Student Data.xml
+C:\CDrive\CIS 1284 NET 2008\Class Programs\CIS 1284 GA 10\Student Data\obj\Debug\Student Data.pdb
+C:\CDrive\CIS 1284 NET 2008\Class Programs\CIS 1284 GA 10\Student Data\bin\Debug\Student Data.exe
+C:\CDrive\CIS 1284 NET 2008\Class Programs\CIS 1284 GA 10\Student Data\bin\Debug\Student Data.pdb
+C:\CDrive\CIS 1284 NET 2008\Class Programs\CIS 1284 GA 10\Student Data\bin\Debug\Student Data.xml
+C:\CDrive\CIS 1284 NET 2008\Class Programs\CIS 1284 GA 10\Student Data\obj\Debug\ResolveAssemblyReference.cache
+C:\CDrive\CIS 1284 NET 2008\Class Programs\CIS 1284 GA 10\Student Data\obj\Debug\Student_Data.frmMain.resources
+C:\CDrive\CIS 1284 NET 2008\Class Programs\CIS 1284 GA 10\Student Data\obj\Debug\Student_Data.Resources.resources
+C:\CDrive\CIS 1284 NET 2008\Class Programs\CIS 1284 GA 10\Student Data\obj\Debug\Student Data.vbproj.GenerateResource.Cache
+I:\Instructor\BIT_JMMC\JReed\CIS 1284\CIS 1284 GA 10\Student Data\obj\Debug\Student Data.exe
+I:\Instructor\BIT_JMMC\JReed\CIS 1284\CIS 1284 GA 10\Student Data\obj\Debug\Student Data.xml
+I:\Instructor\BIT_JMMC\JReed\CIS 1284\CIS 1284 GA 10\Student Data\obj\Debug\Student Data.pdb
+C:\Users\Dar\Documents\GitHub\CIS 1284 Net VB\Guided Activities\CIS 1284 GA 11\Student Data\obj\Debug\Student Data.exe
+C:\Users\Dar\Documents\GitHub\CIS 1284 Net VB\Guided Activities\CIS 1284 GA 11\Student Data\obj\Debug\Student Data.xml
+C:\Users\Dar\Documents\GitHub\CIS 1284 Net VB\Guided Activities\CIS 1284 GA 11\Student Data\obj\Debug\Student Data.pdb

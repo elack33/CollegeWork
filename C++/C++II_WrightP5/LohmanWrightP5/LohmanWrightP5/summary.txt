@@ -1,0 +1,154 @@
+
+Lakesha Loman & Dar Wright, CIS 2275 Program 5
+Traffic Generator Log File
+Mon Mar 19 18:41:42 2012
+
+Today's Date: March 19, 2012
+
+
+1. Vehicle speed: 89 mph  License plate No. AL FHQ035
+ Driver: LEE KILLIAN Driver License No. AL 662580450
+
+2. Vehicle speed: 66 mph  License plate No. NM UME391
+ Driver: MARY GILL Driver License No. NM 506719801
+
+3. Vehicle speed: 17 mph  License plate No. NM LOD188
+ Driver: MICHAEL DORSEY Driver License No. NM 165336289
+
+4. Vehicle speed: 64 mph  License plate No. NM MVM532
+ Driver: KAY AYERS Driver License No. NM 292477125
+
+5. Vehicle speed: 51 mph  License plate No. AL QKF573
+ Driver: FELICE BURKE Driver License No. Invalid License
+
+6. Vehicle speed: 42 mph  License plate No. AL IXA076
+ Driver: MICHAEL SCALES Driver License No. AL 974700514
+
+7. Vehicle speed: 100 mph  License plate No. NM PJP702
+ Driver: TRACI HOLSTINE Driver License No. NM 509380647
+
+8. Vehicle speed: 73 mph  License plate No. NM UPC315
+ Driver: GLORIA ROGERS Driver License No. NM 711659095
+
+9. Vehicle speed: 55 mph  License plate No. NM JZP187
+ Driver: MARY GILL Driver License No. Invalid License
+
+10. Vehicle speed: 56 mph  License plate No. NM OCK320
+ Driver: KAY AYERS Driver License No. Invalid License
+
+11. Vehicle speed: 31 mph  License plate No. NM FTX103
+ Driver: GLORIA ROGERS Driver License No. NM 703297283
+
+12. Vehicle speed: 48 mph  License plate No. NM PCD225
+ Driver: DELMA OLDENKAMP Driver License No. NM 218548629
+
+13. Vehicle speed: 46 mph  License plate No. NM ZTC835
+ Driver: MARY TSHUDY Driver License No. NM 812596576
+
+14. Vehicle speed: 41 mph  License plate No. NM KXN757
+ Driver: TIMOTHY JOHNSON Driver License No. NM 940485182
+
+15. Vehicle speed: 34 mph  License plate No. NM RRB617
+ Driver: LISA SANCHEZ Driver License No. Invalid License
+
+16. Vehicle speed: 68 mph  License plate No. OR DUJ029
+ Driver: CHRIS SPAHN Driver License No. OR 446549308
+
+17. Vehicle speed: 75 mph  License plate No. NM PEL617
+ Driver: KRISTEN PORTER Driver License No. NM 085408511
+
+18. Vehicle speed: 35 mph  License plate No. NM ANM232
+ Driver: CLAYTON WEITZMAN Driver License No. NM 202034770
+
+19. Vehicle speed: 20 mph  License plate No. NM QLK214
+ Driver: CHRIS SPAHN Driver License No. Invalid License
+
+20. Vehicle speed: 84 mph  License plate No. NM EDY014
+ Driver: COLLIN BATTSON Driver License No. NM 447037038
+
+21. Vehicle speed: 50 mph  License plate No. NM KMA712
+ Driver: MICHELLE PARR Driver License No. NM 586972157
+
+22. Vehicle speed: 16 mph  License plate No. NM EEJ805
+ Driver: KENNETH PERRY Driver License No. Invalid License
+
+23. Vehicle speed: 47 mph  License plate No. NM AGJ764
+ Driver: DELMA OLDENKAMP Driver License No. Invalid License
+
+24. Vehicle speed: 62 mph  License plate No. NM NYY258
+ Driver: LEE KILLIAN Driver License No. NM 249018151
+
+25. Vehicle speed: 77 mph  License plate No. NM ZQP454
+ Driver: LEE KILLIAN Driver License No. NM 421748480
+
+26. Vehicle speed: 32 mph  License plate No. OR MDG046
+ Driver: ERNEST CHAPMAN Driver License No. OR 611703774
+
+27. Vehicle speed: 27 mph  License plate No. NM PYR881
+ Driver: EDWINA PENA Driver License No. NM 213789100
+
+28. Vehicle speed: 66 mph  License plate No. OR JPB153
+ Driver: LISA SANCHEZ Driver License No. Invalid License
+
+29. Vehicle speed: 48 mph  License plate No. OR QMU060
+ Driver: MICHAEL WHITTINGTON Driver License No. OR 041983884
+
+30. Vehicle speed: 25 mph  License plate No. OR YEJ177
+ Driver: TEODORO COUCH Driver License No. OR 026761327
+
+31. Vehicle speed: 84 mph  License plate No. NM DSE048
+ Driver: MICHAEL WARREN Driver License No. NM 084636272
+
+32. Vehicle speed: 95 mph  License plate No. AL GDC967
+ Driver: LEE KILLIAN Driver License No. Invalid License
+
+33. Vehicle speed: 81 mph  License plate No. NM HOM156
+ Driver: DELMA OLDENKAMP Driver License No. NM 289331611
+
+34. Vehicle speed: 56 mph  License plate No. NM BPB849
+ Driver: ERNEST CHAPMAN Driver License No. NM 380197124
+
+35. Vehicle speed: 51 mph  License plate No. NM MDQ722
+ Driver: LORI GARCIA Driver License No. NM 601168872
+
+36. Vehicle speed: 73 mph  License plate No. NM EKT759
+ Driver: ISABEL KILDAY Driver License No. NM 209016909
+
+37. Vehicle speed: 79 mph  License plate No. NM EUH423
+ Driver: VERNICE MILLER Driver License No. NM 966703011
+
+38. Vehicle speed: 76 mph  License plate No. NM DLF106
+ Driver: ERNEST CHAPMAN Driver License No. NM 062744581
+
+39. Vehicle speed: 76 mph  License plate No. NM MIW579
+ Driver: SARAH SCHMIDT Driver License No. NM 816851188
+
+40. Vehicle speed: 91 mph  License plate No. NM BMZ136
+ Driver: CLAYTON WEITZMAN Driver License No. NM 484714043
+
+41. Vehicle speed: 88 mph  License plate No. NM KAY748
+ Driver: FRANCISCO PONTIOUS Driver License No. NM 822999269
+
+42. Vehicle speed: 50 mph  License plate No. NM PGI840
+ Driver: NATHAN WARD Driver License No. NM 177534888
+
+43. Vehicle speed: 69 mph  License plate No. NM FJN475
+ Driver: KIMBERLY FAULKNER Driver License No. Invalid License
+
+44. Vehicle speed: 47 mph  License plate No. NM VUB606
+ Driver: TEODORO COUCH Driver License No. NM 941624858
+
+45. Vehicle speed: 39 mph  License plate No. OR KLV668
+ Driver: FELICE BURKE Driver License No. OR 138094245
+
+46. Vehicle speed: 69 mph  License plate No. OR FGM236
+ Driver: HARRY RASMUSSEN Driver License No. Invalid License
+
+47. Vehicle speed: 21 mph  License plate No. NM VDG287
+ Driver: MICHAEL WARREN Driver License No. NM 521285678
+
+48. Vehicle speed: 76 mph  License plate No. NM ORQ620
+ Driver: LISA ROSENBAUM Driver License No. NM 735474716
+
+49. Vehicle speed: 88 mph  License plate No. OR JHV943
+ Driver: DELMA OLDENKAMP Driver License No. OR 605562094
